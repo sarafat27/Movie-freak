@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Arafat",
+        "text": "An incomparable crime thriller and superhero film, and an instant classic in both genres.",
+        "rating": "4 out of 5"
+    },
+    {
+        "id": 2,
+        "name": "Sakib",
+        "text": "The movie is a good, no GREAT DC movie. the only problem with the movie is that the citizens of Gotham, are brain dead. that is the only complaint I have, if you haven't seen this movie, YOU SHOULD!",
+        "rating": "5 out of 5"
+    },
+    {
+        "id": 3,
+        "name": "Karim",
+        "text": "Brilliant performance by Heath Leger, The Dark Knight becomes the most significant movie of all time and Gotham's grip of fear by the Clown Prince of Crime Joker.",
+        "rating": "4.5 out of 5"
+    },
+    {
+        "id": 4,
+        "name": "Jahed",
+        "text": "Simply a masterpiece. A must watch and rewatch over and over again. The cast is extraordinary, in particular, needless to say, Ledger's performance of the Joker. A worthy last gem from an incredibly talented actor.",
+        "rating": "5 out of 5"
+    },
+    {
+        "id": 5,
+        "name": "Mushfiq",
+        "text": "The movie's a real neo-noir all right, wallowing in darkness, thrilled with how bad we are, and getting such a kick out of our impending doom it cheers you right up.",
+        "rating": "3.5 out of 5"
+    },
+    {
+        "id": 6,
+        "name": "Sayem",
+        "text": "It might not be the most fun superhero movie ever made, but it's certainly the most mature, complex and intriguing of them all. ",
+        "rating": "4 out of 5"
+    }
+]
