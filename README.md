@@ -1,6 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Movie Freak
+# I have done these things in this website:
+* At first ,i have made a navigation bar which navigate to different routes.
+* Then, i have gave a movie name and three reviews in home page.
+* Then ,there is a button below three reviews and the reviews nav ,both routes to the review page.
+* I have added two charts in the dashboard page and edited the README.md file 
+# My website live link is:
+[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
