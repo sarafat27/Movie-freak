@@ -5,7 +5,7 @@
 * Then ,there is a button below three reviews and the reviews nav ,both routes to the review page.
 * I have added two charts in the dashboard page and edited the README.md file 
 # My website live link is:
-[Create React App](https://github.com/facebook/create-react-app).
+[https://darling-vacherin-24e683.netlify.app/home](https://darling-vacherin-24e683.netlify.app/home).
 
 ## Available Scripts
 
