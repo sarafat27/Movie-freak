@@ -7,7 +7,7 @@ const ThreeReviews = () => {
     const [reviews, setReviews] = useReviews();
     const threeReviews = reviews.filter(review => review.id < 4);
     return (
-        <div>
+        <div className='three-reviews-container'>
             <h1>Audience reviews(3)</h1>
             <div className='card-container'>
                 {
@@ -17,9 +17,11 @@ const ThreeReviews = () => {
                     ></Card>)
                 }
             </div>
-            <button className='see-all-btn'>
-                <Link to='/reviews'>See all reviews</Link>
-            </button>
+            <div className='btn-container'>
+                <button className='see-all-btn'>
+                    <Link to='/reviews'>See all reviews</Link>
+                </button>
+            </div>
         </div>
     );
 };

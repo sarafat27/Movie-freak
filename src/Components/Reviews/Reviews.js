@@ -5,7 +5,7 @@ import './Reviews.css'
 const Reviews = () => {
     const [reviews, setReviews] = useReviews();
     return (
-        <div>
+        <div className='reviews-container'>
             <h1>These are all reviews</h1>
             <div className='card-container'>
                 {

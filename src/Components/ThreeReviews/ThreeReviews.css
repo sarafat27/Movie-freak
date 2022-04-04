@@ -3,6 +3,14 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
+.three-reviews-container h1 {
+    text-align: center;
+}
+
+.btn-container {
+    text-align: center;
+}
+
 .see-all-btn {
     margin: 30px;
     border: 0;

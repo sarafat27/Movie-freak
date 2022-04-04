@@ -17,6 +17,10 @@
     margin: 0;
 }
 
+.img-container {
+    margin: 0 auto;
+}
+
 .img-container img {
     height: 500px;
     border-radius: 15px;
