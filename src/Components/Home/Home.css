@@ -26,3 +26,10 @@
     border-radius: 15px;
     margin-top: 20px;
 }
+
+@media screen and (max-width:850px) {
+    .home-container {
+        grid-template-columns: 1fr;
+    }
+
+}
